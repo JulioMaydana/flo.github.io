@@ -1,0 +1,89 @@
+body {
+  background-color: rgb(36, 35, 35);
+  color: rgb(65, 102, 134);
+  text-align: center;
+}
+.s {
+ 
+  color: rgb(234, 236, 238);
+  text-align: center;
+}
+
+div {
+  background-color: rgb(233, 249, 250);
+  width: auto;
+  border: 10px solid rgb(89, 225, 243);
+  padding: 10px;
+  margin: 40px;
+  color: rgb(58, 63, 85);
+  font-weight: 800;
+  font-size: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  border-radius: 25px;
+}
+
+.x {  background-color: rgb(208, 222, 230);
+  width: auto;
+  border: 10px solid rgb(77, 154, 255);
+  padding: 10px;
+  margin: 40px;
+  color: rgb(58, 63, 85);
+  font-weight: 800; 
+  font-size: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  border-radius: 25px;
+ 
+}
+.xc {  background-color: rgb(194, 212, 238);
+  width: auto;
+  border: 10px solid rgb(84, 133, 240);
+  padding: 10px;
+  margin: 40px;
+  color: rgb(58, 63, 85);
+  font-weight: 800; 
+  font-size: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  border-radius: 25px;
+ 
+}
+header {
+  background-color: rgba(255, 255, 255, 0.986);
+  margin: 10px;
+  padding: 15px;
+  border: 5px solid rgb(139, 181, 219);
+  border-radius: 25px;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+
+.imagen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid rgb(127, 184, 216);
+  border-radius: 25px;
+}
+a:link,
+a:visited {
+  background-color: #1c7c99;
+  text-emphasis: center;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 25px;
+
+}
+
+a:hover,
+a:active {
+  background-color: rgb(126, 120, 120);
+}
